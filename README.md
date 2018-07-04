@@ -63,8 +63,8 @@ SQLite::last_insert_id();
 Returns the ID of the last inserted record.
 ```php
 SQLite::rows();
-Returns the number of records in the query result
 ```
+Returns the number of records in the query result
 
 ```php
 SQLite::getColumns($table);
