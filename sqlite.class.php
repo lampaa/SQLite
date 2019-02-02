@@ -1,7 +1,5 @@
 <?php
-/*
-	http://lampacore.ru/2012/06/10/sqliteclass/
-*/
+
 class SQLite {
 	public $file;
 	public $db;
